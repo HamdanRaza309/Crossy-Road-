@@ -1,0 +1,70 @@
+#========================
+# Unity Generated Folders
+#========================
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Burst
+Library/BurstCache/
+
+# Addressables
+ServerData/
+
+#========================
+# IDE
+#========================
+
+.vs/
+.vscode/
+.idea/
+
+# Rider
+*.sln.iml
+
+# Visual Studio
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# Mono
+*.mdb
+
+#========================
+# OS Files
+#========================
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+#========================
+# Unity Cache
+#========================
+
+sysinfo.txt
+
+#========================
+# Build Outputs
+#========================
+
+*.apk
+*.aab
+*.exe
+*.app
+*.ipa
+
+#========================
+# Crash Reports
+#========================
+
+crashlytics-build.properties
