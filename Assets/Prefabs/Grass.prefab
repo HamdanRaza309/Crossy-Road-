@@ -342,6 +342,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8035830821911700117}
+  - component: {fileID: 3369167693684395759}
   m_Layer: 0
   m_Name: Grass
   m_TagString: Untagged
@@ -373,6 +374,19 @@ Transform:
   - {fileID: 992109351345459515}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3369167693684395759
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7644538607812127869}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 552cee2b0a471c743b35ec8f87b680d5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Grass
+  treePrefab: {fileID: 1414987744784721847, guid: 834955bd9606ce248b3f817d622985be, type: 3}
 --- !u!1001 &742556619450578640
 PrefabInstance:
   m_ObjectHideFlags: 0
